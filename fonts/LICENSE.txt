@@ -10,6 +10,15 @@ Font license info
    Homepage:  http://www.entypo.com
 
 
+## Meteocons
+
+   Copyright (C) 2012 by Alessio Atzeni
+
+   Author:    Alessio Atzeni
+   License:   SIL (http://scripts.sil.org/OFL)
+   Homepage:  http://www.alessioatzeni.com
+
+
 ## Linecons
 
    Copyright (C) 2013 by Designmodo
@@ -19,13 +28,13 @@ Font license info
    Homepage:  http://designmodo.com/linecons-free/
 
 
-## Typicons
+## MFG Labs
 
-   (c) Stephen Hutchings 2012
+   Copyright (C) 2012 by Daniel Bruce
 
-   Author:    Stephen Hutchings
+   Author:    MFG Labs
    License:   SIL (http://scripts.sil.org/OFL)
-   Homepage:  http://typicons.com/
+   Homepage:  http://www.mfglabs.com/
 
 
 ## Font Awesome

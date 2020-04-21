@@ -1,14 +1,13 @@
 @font-face {
   font-family: 'vf-fonts';
-  src: url('../font/vf-fonts.eot?69055316');
-  src: url('../font/vf-fonts.eot?69055316#iefix') format('embedded-opentype'),
-       url('../font/vf-fonts.woff2?69055316') format('woff2'),
-       url('../font/vf-fonts.woff?69055316') format('woff'),
-       url('../font/vf-fonts.ttf?69055316') format('truetype'),
-       url('../font/vf-fonts.svg?69055316#vf-fonts') format('svg');
+  src: url('../font/vf-fonts.eot?10413590');
+  src: url('../font/vf-fonts.eot?10413590#iefix') format('embedded-opentype'),
+       url('../font/vf-fonts.woff2?10413590') format('woff2'),
+       url('../font/vf-fonts.woff?10413590') format('woff'),
+       url('../font/vf-fonts.ttf?10413590') format('truetype'),
+       url('../font/vf-fonts.svg?10413590#vf-fonts') format('svg');
   font-weight: normal;
   font-style: normal;
-  font-display: swap;
 }
 /* Chrome hack: SVG is rendered more smooth in Windozze. 100% magic, uncomment if you need it. */
 /* Note, that will break hinting! In other OS-es font will be not as sharp as it could be */
@@ -16,7 +15,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: 'vf-fonts';
-    src: url('../font/vf-fonts.svg?69055316#vf-fonts') format('svg');
+    src: url('../font/vf-fonts.svg?10413590#vf-fonts') format('svg');
   }
 }
 */
@@ -58,12 +57,11 @@
  
 .icon-right-open-big:before { content: '\e800'; } /* '' */
 .icon-cancel:before { content: '\e801'; } /* '' */
-.icon-mail:before { content: '\e802'; } /* '' */
-.icon-sun:before { content: '\e803'; } /* '' */
-.icon-moon:before { content: '\e804'; } /* '' */
-.icon-sun-filled:before { content: '\e805'; } /* '' */
-.icon-menu:before { content: '\e806'; } /* '' */
+.icon-moon:before { content: '\e802'; } /* '' */
+.icon-mail:before { content: '\e803'; } /* '' */
+.icon-sun:before { content: '\e806'; } /* '' */
 .icon-quote:before { content: '\e808'; } /* '' */
+.icon-menu:before { content: '\f008'; } /* '' */
 .icon-twitter:before { content: '\f099'; } /* '' */
 .icon-github-circled:before { content: '\f09b'; } /* '' */
 .icon-linkedin:before { content: '\f0e1'; } /* '' */
